@@ -8,3 +8,7 @@ body {
 h3 {
   display: inline-block;
 }
+.navbar-brand,
+ul {
+  color: white;
+}
